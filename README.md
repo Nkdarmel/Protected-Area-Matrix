@@ -1,5 +1,5 @@
 # Protected-Area-Matrix
-This project aims to create an online tool that will allow for analyzing management categories and governance types of protected areas according to the classification of the IUCN. The tool is designed to be used by professionals in the field, such as biologists, ecologists, civil enginneer and conservation managers.
+This project aims to create an online tool that will allow for analyzing management categories and governance types of protected areas according to the classification of the IUCN. The tool is designed to be used by professionals in the field, such as biologists, ecologists, civil engineer and conservation managers.
 ## Steps to use the code:
 1. Clone this repository with `git clone https://github.com/your-username/IUCN-Protected-Area-Matrix.git`
 2. Install necessary dependencies by running `pip install pandas matplotlib`
