@@ -1,4 +1,7 @@
-# Protected-Area-Matrix
+[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/IUCN-Protected-Area-Matrix.svg)](https://github.com/your-username/IUCN-Protected-Area-Matrix/issues)
+
+## Protected-Area-Matrix
 This project aims to create an online tool that will allow for analyzing management categories and governance types of protected areas according to the classification of the IUCN. The tool is designed to be used by professionals in the field, such as biologists, ecologists, civil engineer and conservation managers.
 ## Steps to use the code:
 1. Clone this repository with `git clone https://github.com/your-username/IUCN-Protected-Area-Matrix.git`
@@ -24,7 +27,7 @@ plt.xlabel('Governance Type')
 plt.ylabel('Management Category')
 plt.show()
 ```
-**Fichier iucn_matrix. csv**
+**Example of the Fichier iucn_matrix. csv**
 
 | Category  | Ia (Strict Nature Reserve)  | Ib (Wilderness Area)  | II (National Park)  | III (Natural Monument or Feature)  | IV (Habitat/Species Management Area)  |
 | ---  | ---  | ---  | ---  | ---  | ---  |
