@@ -24,7 +24,7 @@ This project aims to create an online tool that will allow for analyzing managem
 - **Accessible**: Documented workflow available.
 - **Interoperable**: Python-based workflow compatible.
 - **Reproducible**: Versioned workflow ensuring reproducibility.
-- 
+  
 ## Steps to use the code:
 1. Clone this repository with `git clone https://github.com/your-username/IUCN-Protected-Area-Matrix.git`
 2. Install necessary dependencies by running `pip install pandas matplotlib`
