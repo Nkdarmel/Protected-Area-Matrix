@@ -1,3 +1,6 @@
+
+## Using Analyzing Categories Intelligence Infrastructure and Governance types of Protected Areas according to the Biodiversity classification 
+
 [![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/IUCN-Protected-Area-Matrix.svg)](https://github.com/your-username/IUCN-Protected-Area-Matrix/issues)
 
@@ -37,15 +40,16 @@ plt.show()
 | 4. Private Organization  | 0.2 [16]  | 0.1 [17]  | 0.5 [18]  | 0.8 [19]  | 0.95 [20]  |
 | 5. International Organization  | 0.3 [21]  | 0.25 [22]  | 0.7 [23]  | 0.6 [24]  | 0.9 [25]  |
 
-Bibliography
+## Bibliography
 
 [1-25]: Borrini-Feyerabend, G., et al. (2024). Protected Area Governance and Management: A Framework for Classification and Assessment. IUCN.
 
 Note: The data in this file is fictional and does not reflect the actual categories or percentages of protected areas managed by different types of governance bodies.
 
-References
+## References
 
 [1-25]: Borrini-Feyerabend, G., et al. (2024). Protected Area Governance and Management: A Framework for Classification and Assessment. IUCN.
+
 **File requirements.txt:**
 pandas
 matplotlib
