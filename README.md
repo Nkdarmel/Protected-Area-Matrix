@@ -3,9 +3,28 @@
 
 [![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/IUCN-Protected-Area-Matrix.svg)](https://github.com/your-username/IUCN-Protected-Area-Matrix/issues)
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p>
 
 ## Protected-Area-Matrix
 This project aims to create an online tool that will allow for analyzing management categories and governance types of protected areas according to the classification of the IUCN. The tool is designed to be used by professionals in the field, such as biologists, ecologists, civil engineer and conservation managers.
+
+### Features
+- **Feasible**: Research prototype ready.
+- **Accessible**: Documented workflow available.
+- **Interoperable**: Python-based workflow compatible.
+- **Reproducible**: Versioned workflow ensuring reproducibility.
+- 
 ## Steps to use the code:
 1. Clone this repository with `git clone https://github.com/your-username/IUCN-Protected-Area-Matrix.git`
 2. Install necessary dependencies by running `pip install pandas matplotlib`
